@@ -5,7 +5,7 @@ Our client would like to offer a new cryptocurrency investment portfolio for its
 
 ## Tasks
 
-Preprocessing the Data for PCA
-Reducing Data Dimensions Using PCA
-Clustering Cryptocurrencies Using K-means
-Visualizing Cryptocurrencies Results
+* Preprocessing the Data for PCA
+* Reducing Data Dimensions Using PCA
+* Clustering Cryptocurrencies Using K-means
+* Visualizing Cryptocurrencies Results
